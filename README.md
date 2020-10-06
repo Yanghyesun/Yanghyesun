@@ -4,11 +4,11 @@
 
 [ 2019.07 ] - IT동아리 SOPT APP-JAM "준비해BOX" ***Android***  개발
 
-[ 2019.09 ]  - 서울시 앱 공모전 "아가옷장" ***Android***  개발
+[ 2019.08 - 2019.09 ]  - 서울시 앱 공모전 "아가옷장" ***Android***  개발
 
 [ 2019.12 ] - IT동아리 SOPT APP-JAM "Fluff" ***Android***  개발
 
-[ 2020.03 ] - 사이드 프로젝트 "Gitcat" ***Android*** 개발
+[ 2020.03 - 2020.05 ] - 사이드 프로젝트 "Gitcat" ***Android*** 개발
   [플레이스토어 링크](https://play.google.com/store/apps/details?id=com.catlove.gitcat)
 
 [ 2020.07 ] - IT동아리 SOPT APP-JAM "Qring" ***Anroid*** 개발
