@@ -20,4 +20,4 @@
 [ 2020.09 ~ 2020.10 ] - 사이드 프로젝트 "Univew" ***Android*** 개발
   [플레이스토어 링크](https://play.google.com/store/apps/details?id=com.uniview.allconnect)
 
-[ 2020.03 ~ ] - 졸업 프로젝트 "My Aquaponics" ***Spring*** 개발
+[ 2020.03 ~ 2020.11 ] - 졸업 프로젝트 "My Aquaponics" ***Spring*** 개발
