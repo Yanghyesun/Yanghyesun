@@ -15,9 +15,9 @@
   [플레이스토어 링크](https://play.google.com/store/apps/details?id=com.qring.dolphin&hl=ko&fbclid=IwAR0kFKhoXnodKe8yzoDzt7Bg4n8Knlzx_So-k2f5tF6RsPykNj0f3vXtQwY)
 
 [ 2020.04 - 2020.09 ] - SK 관광 앱 공모전 "Kravel" ***Android*** 개발
-  [플레이스토어 링크](https://play.google.com/store/apps/details?id=com.kravelteam.kravel_android)
+  [플레이스토어 링크](https://play.google.com/store/apps/details?id=com.kravelteam.kravel_android)  **외국어 앱 특별상 수상
 
 [ 2020.09 ~ 2020.10 ] - 사이드 프로젝트 "Univew" ***Android*** 개발
   [플레이스토어 링크](https://play.google.com/store/apps/details?id=com.uniview.allconnect)
 
-[ 2020.03 ~ 2020.11 ] - 졸업 프로젝트 "My Aquaponics" ***Spring*** 개발
+[ 2020.03 ~ 2020.11 ] - 졸업 프로젝트 "My Aquaponics" ***Spring*** 개발  **WISET ICT 프로젝트 최우수상 수상
