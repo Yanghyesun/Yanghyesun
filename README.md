@@ -20,3 +20,5 @@
   [플레이스토어 링크](https://play.google.com/store/apps/details?id=com.uniview.allconnect)
 
 [ 2020.03 ~ 2020.11 ] - 졸업 프로젝트 "My Aquaponics" ***Spring*** 개발 ✔️ WISET ICT 프로젝트 최우수상 수상
+
+[ 2021.01 ~ 현재 ] - 삼성 청년 SW 아카데미 5기 교육 이수
